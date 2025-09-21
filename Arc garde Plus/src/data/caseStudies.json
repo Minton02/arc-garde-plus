@@ -1,0 +1,186 @@
+[
+  {
+    "id": "saas-startup",
+    "title": "SaaS Startup → $2M ARR",
+    "client": "TechFlow Solutions",
+    "industry": "B2B SaaS",
+    "slug": "techflow-solutions-saas-growth",
+    "heroImage": "/case-studies/techflow-hero.jpg",
+    "challenge": "TechFlow was stuck at $400K ARR with high churn rates and ineffective lead generation. Their conversion funnel was leaking revenue at every stage.",
+    "solution": "We implemented a comprehensive growth strategy focusing on product-led growth, optimized onboarding, and targeted customer success initiatives.",
+    "startDate": "2024-01-15",
+    "endDate": "2024-07-15",
+    "metrics": [
+      {
+        "name": "Annual Recurring Revenue",
+        "value": "$2M",
+        "growth": "400%",
+        "period": "6 months"
+      },
+      {
+        "name": "Monthly Conversion Rate",
+        "value": "12.5%",
+        "growth": "340%",
+        "period": "6 months"
+      },
+      {
+        "name": "Customer Churn Rate",
+        "value": "2.1%",
+        "growth": "-67%",
+        "period": "6 months"
+      },
+      {
+        "name": "Customer Acquisition Cost",
+        "value": "$89",
+        "growth": "-45%",
+        "period": "6 months"
+      }
+    ],
+    "testimonial": {
+      "quote": "Arc Garde++ didn't just grow our revenue—they transformed our entire go-to-market strategy. The systematic approach to identifying and fixing our conversion leaks was exactly what we needed.",
+      "author": "Sarah Chen",
+      "role": "CEO",
+      "avatar": "/testimonials/sarah-chen.jpg"
+    },
+    "tags": ["Lead Generation", "Conversion Optimization", "Retention", "Product-Led Growth"],
+    "featured": true
+  },
+  {
+    "id": "ecommerce-brand",
+    "title": "E-commerce → 8-Figure Revenue",
+    "client": "Urban Essentials",
+    "industry": "D2C E-commerce",
+    "slug": "urban-essentials-ecommerce-scale",
+    "heroImage": "/case-studies/urban-essentials-hero.jpg",
+    "challenge": "Urban Essentials was struggling to scale beyond $1M with rising acquisition costs and poor unit economics. Their ROAS was declining across all channels.",
+    "solution": "We rebuilt their entire acquisition strategy, optimized their conversion funnel, and implemented advanced email marketing and retention campaigns.",
+    "startDate": "2023-08-01",
+    "endDate": "2024-04-01",
+    "metrics": [
+      {
+        "name": "Total Revenue",
+        "value": "$12M",
+        "growth": "1100%",
+        "period": "8 months"
+      },
+      {
+        "name": "Return on Ad Spend",
+        "value": "5.2x",
+        "growth": "450%",
+        "period": "8 months"
+      },
+      {
+        "name": "Customer Lifetime Value",
+        "value": "$340",
+        "growth": "280%",
+        "period": "8 months"
+      },
+      {
+        "name": "Email Revenue Share",
+        "value": "35%",
+        "growth": "600%",
+        "period": "8 months"
+      }
+    ],
+    "testimonial": {
+      "quote": "They found revenue opportunities we never knew existed. The transformation in our unit economics and customer lifetime value has been absolutely game-changing for our business.",
+      "author": "Marcus Rodriguez",
+      "role": "Founder",
+      "avatar": "/testimonials/marcus-rodriguez.jpg"
+    },
+    "tags": ["Paid Advertising", "CRO", "Email Marketing", "Customer Retention"],
+    "featured": true
+  },
+  {
+    "id": "consulting-firm",
+    "title": "Consulting Firm → Market Leader",
+    "client": "Strategic Advisors Inc.",
+    "industry": "B2B Consulting",
+    "slug": "strategic-advisors-positioning",
+    "heroImage": "/case-studies/strategic-advisors-hero.jpg",
+    "challenge": "Strategic Advisors was commoditized in a crowded market, competing primarily on price with low-value deals and inconsistent pipeline.",
+    "solution": "We repositioned them as the premium choice through thought leadership, optimized their sales process, and implemented account-based marketing.",
+    "startDate": "2024-03-01",
+    "endDate": "2024-07-01",
+    "metrics": [
+      {
+        "name": "Average Deal Size",
+        "value": "$180K",
+        "growth": "800%",
+        "period": "4 months"
+      },
+      {
+        "name": "Sales Pipeline Value",
+        "value": "$2.4M",
+        "growth": "600%",
+        "period": "4 months"
+      },
+      {
+        "name": "Close Rate",
+        "value": "68%",
+        "growth": "240%",
+        "period": "4 months"
+      },
+      {
+        "name": "Sales Cycle Length",
+        "value": "21 days",
+        "growth": "-58%",
+        "period": "4 months"
+      }
+    ],
+    "testimonial": {
+      "quote": "We went from competing on price to being the premium choice in our category. Our positioning and messaging transformation has attracted enterprise clients we never thought possible.",
+      "author": "Jennifer Walsh",
+      "role": "Managing Partner",
+      "avatar": "/testimonials/jennifer-walsh.jpg"
+    },
+    "tags": ["Positioning", "Content Strategy", "Sales Enablement", "Account-Based Marketing"],
+    "featured": true
+  },
+  {
+    "id": "fintech-startup",
+    "title": "FinTech → Series A Success",
+    "client": "PayFlow Technologies",
+    "industry": "FinTech",
+    "slug": "payflow-fintech-growth",
+    "heroImage": "/case-studies/payflow-hero.jpg",
+    "challenge": "PayFlow had a great product but struggled with user acquisition and product-market fit validation in the competitive FinTech space.",
+    "solution": "We helped them identify their ideal customer profile, optimize their product onboarding, and build a scalable growth engine focused on organic acquisition.",
+    "startDate": "2023-11-01",
+    "endDate": "2024-05-01",
+    "metrics": [
+      {
+        "name": "Monthly Active Users",
+        "value": "50K",
+        "growth": "900%",
+        "period": "6 months"
+      },
+      {
+        "name": "User Acquisition Cost",
+        "value": "$12",
+        "growth": "-75%",
+        "period": "6 months"
+      },
+      {
+        "name": "Product Adoption Rate",
+        "value": "89%",
+        "growth": "320%",
+        "period": "6 months"
+      },
+      {
+        "name": "Series A Funding",
+        "value": "$8M",
+        "growth": "100%",
+        "period": "6 months"
+      }
+    ],
+    "testimonial": {
+      "quote": "The growth strategy Arc Garde++ developed was instrumental in our Series A success. They helped us prove product-market fit and build sustainable unit economics.",
+      "author": "David Kim",
+      "role": "Co-Founder & CEO",
+      "avatar": "/testimonials/david-kim.jpg"
+    },
+    "tags": ["Product-Market Fit", "User Acquisition", "Growth Hacking", "Fundraising"],
+    "featured": false
+  }
+]
