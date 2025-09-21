@@ -2,10 +2,10 @@ import type { Metadata } from 'next';
 import { Inter, Playfair_Display } from 'next/font/google';
 import './globals.css';
 import { Providers } from '@/components/providers';
-/layout/Navigation';
+import { Navigation } from '@/components/layout/Navigation';
 import { Footer } from '@/components/layout/Footer';
 import { StickyBooking } from '@/components/ui/StickyBooking';
-
+import { BookingModal } from '@/components/ui/BookingModal';
 const inter = Inter({
   subsets: ['latin'],
   display: 'swap',
